@@ -1,0 +1,20 @@
+#body{
+    background-color: goldenrod;
+}
+
+#S{
+    font-size: 50px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    margin-left: 15px;
+}
+
+#T{
+    font-size: 45px;
+    float: right;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    margin-right: 15px;
+}
+
+#STBD{
+    background-color: aqua;
+}
